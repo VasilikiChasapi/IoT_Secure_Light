@@ -1,5 +1,5 @@
-Ena aplo IoT project me LED pou anapsei/svunei mesw diktuou.  
-Exei vasi stin asfaleia, me kryptografisi minimaton kai asfali epikoinonia me MQTT.
+Ena aplo IoT project me LED pou anapsei/svinei mesw diktuou.  
+Exei vasi stin asfaleia, me kryptografisi minimatwn kai asfali epikoinonia me MQTT.
 
 Xrisi
 
