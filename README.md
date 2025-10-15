@@ -1,4 +1,5 @@
-still in active development
+Status
+This project is currently under active development (October 2025)
 
 Ena aplo IoT project me LED pou anapsei/svunei mesw diktuou.  
 Exei vasi stin asfaleia, me kryptografisi minimaton kai asfali epikoinonia me MQTT.
