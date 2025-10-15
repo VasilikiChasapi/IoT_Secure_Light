@@ -1,5 +1,5 @@
-Ena aplo IoT project me LED pou anapsei/svinei mesw diktuou.  
-Exei vasi stin asfaleia, me kryptografisi minimatwn kai asfali epikoinonia me MQTT.
+Ena aplo IoT project me LED pou anapsei/svunei mesw diktuou.  
+Exei vasi stin asfaleia, me kryptografisi minimaton kai asfali epikoinonia me MQTT.
 
 Xrisi
 
@@ -8,8 +8,12 @@ Xrisi
 - Trexe  
 - Elegxe sto terminal kai sto `device.log` gia na deis kathe kinisi tou LED (on/off)
 
+later
+maybe screenshot/video apo virtual ESP32 Simulator gia proof
+
 Skopos
 
 O skopos einai na deixnei pos mporoume na kanoume ena aplo IoT device na exei vasi asfaleias, me kryptografimena minimata kai elegxo prosvasis.  
 Mporei na epektathei me:
 - prosthiki real LED me GPIO (sto Raspberry Pi i ESP32)
+- arduino board
