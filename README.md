@@ -1,3 +1,5 @@
+still in active development
+
 Ena aplo IoT project me LED pou anapsei/svunei mesw diktuou.  
 Exei vasi stin asfaleia, me kryptografisi minimaton kai asfali epikoinonia me MQTT.
 
